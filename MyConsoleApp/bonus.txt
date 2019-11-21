@@ -1,0 +1,8 @@
+This is a file with lines
+For bonus points on the assignment
+My name is Sean
+Last name is McIlvenny
+I have a dog, his name is Rudy
+Computers are hard
+Bonus points are good
+Hopefully this works!
